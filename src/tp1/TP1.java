@@ -21,4 +21,4 @@ public class TP1 {
     // Test 2
 }
 
-    //Les tests Git c le feu
+    //Test conflict 
